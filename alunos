@@ -1,5 +1,6 @@
 class Alunos {
 
+private int i;
 public void  cadastrar();
 
 }
