@@ -1,6 +1,12 @@
 class Alunos {
+
    private int id;
    private String nome;
+   private int x;
+   private int y;
+   private int i;
+   public void  cadastrar();
+
 
 }
 
